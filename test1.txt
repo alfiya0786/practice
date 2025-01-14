@@ -1,5 +1,8 @@
-  # Day 1 
 
-  Hello Everyone
+  # Day 1
 
-  Today is tuesday
+ Hello Everyone
+
+ Today is tuesday
+
+>>>>>>> c7234ba6dd8f54076987092023f2609cc1cb65a8
