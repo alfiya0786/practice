@@ -1,5 +1,5 @@
+<<<<<<< HEAD
 Hello...
-
-gvddhdf
-
-hggfh
+=======
+Hello Word
+>>>>>>> 36e0d68345871e403ffa5542cc8ea29d1e84d6b2
